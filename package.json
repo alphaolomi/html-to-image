@@ -1,0 +1,11 @@
+{
+  "name": "html-to-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alpha Olomi",
+  "license": "MIT",
+  "dependencies": {
+    "node-font2base64": "^0.7.1",
+    "node-html-to-image": "^3.2.0"
+  }
+}
